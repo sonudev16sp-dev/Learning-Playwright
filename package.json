@@ -1,0 +1,24 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API Response.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonudev16sp-dev/Learning-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sonudev16sp-dev/Learning-Playwright/issues"
+  },
+  "homepage": "https://github.com/sonudev16sp-dev/Learning-Playwright#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
